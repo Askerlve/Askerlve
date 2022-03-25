@@ -1,13 +1,3 @@
-![header.png](https://images.pexels.com/photos/374563/pexels-photo-374563.jpeg)
-
-<i><b>diss带码</b></i>
-
-<hr>
-<p align="center">
-
-
-<img align="right" width="200" height="200" src="https://ossbao.oss-cn-qingdao.aliyuncs.com/github/touxiang.jpg">
-
 ### :sunglasses: About
 
 ​	Hi！🙉
