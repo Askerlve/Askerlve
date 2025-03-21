@@ -4,7 +4,7 @@
 
 - 🔭 爱好：篮球、足球、K歌
 - 🌱 格言：做自己不讨厌的事情，再有一份不错的收入，This is life
-- 🧩 关于我：7年互联网经验，深耕金融领域
+- 🧩 关于我：10年互联网经验，深耕金融领域风险防控。
 - 💬 联系我：askerlve@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Askerlve&theme=vue-dark&show_icons=true)
